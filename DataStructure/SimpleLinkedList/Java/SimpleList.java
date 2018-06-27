@@ -24,7 +24,7 @@ public class SimpleList{
 			return 0;
 		}
 		return -1;
-		
+
 	}
 
 	public Object get(int index) {
