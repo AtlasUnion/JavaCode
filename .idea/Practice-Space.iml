@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DataStructure/Queue/Python" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DataStructure/SimpleLinkedList/Python" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DataStructure/Stack/Python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStructure/Sort/Python" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
